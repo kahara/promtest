@@ -4,7 +4,7 @@ import (
 	"testing"
 
 	"github.com/google/go-cmp/cmp"
-	"github.com/mdlayher/promtest"
+	"github.com/kahara/promtest"
 	"github.com/prometheus/client_golang/prometheus"
 )
 
